@@ -14,7 +14,7 @@ body {
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background: linear-gradient(to bottom, #68eacc 0%, #497be8 100%);
+  background-image: url("https://www.icegif.com/wp-content/uploads/shrek-icegif-14.gif");
 }
 .wrapper {
   background: #fff;
